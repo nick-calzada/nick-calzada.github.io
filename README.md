@@ -1,2 +1,2 @@
 # nickcalzada.github.io
-Portfolio 
+Portfolio including resume, past projects, and key visualizations. 
