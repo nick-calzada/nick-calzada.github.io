@@ -11,5 +11,5 @@ main:
   # - title: "CV"
   #   url: /files/CV.pdf
 
-  # - title: "Mini Projects"
-  #   url: /portfolio/
+  - title: "Mini Projects"
+    url: /_portfolio/
