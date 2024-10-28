@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Nick Calzada, and I am currently a post-bacc researcher at UT Austin in the Center for Ecological Statistics. My research interests include spatio-temporal statistics, Bayesian hierarchical modeling, and machine learning.
+My name is Nick Calzada, and I am currently a postbaccalaureate researcher at UT Austin in the Center for Ecological Statistics. My research interests include spatio-temporal statistics, Bayesian hierarchical modeling, and machine learning.
 
-Projects
+Project Updates
 ======
 
-Recent News
-======
-
+- Schwob, M. R., Hooten, M. B., Calzada, N. M. (2024). Spatial Hyperspheric Models for Compositional
+Data. arXiv [Stat.ME]. https://doi.org/10.48550/arXiv.2410.03648 (under review at Annals of Applied
+Statistics)
