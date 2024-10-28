@@ -13,5 +13,5 @@ Project Updates
 ======
 
 - Schwob, M. R., Hooten, M. B., **Calzada, N. M.** (2024). Spatial Hyperspheric Models for Compositional
-Data. arXiv [Stat.ME]. [https://doi.org/10.48550/arXiv.2410.03648](https://doi.org/10.48550/arXiv.2410.03648)(under review at Annals of Applied
+Data. arXiv [Stat.ME]. [https://doi.org/10.48550/arXiv.2410.03648](https://doi.org/10.48550/arXiv.2410.03648) (under review at Annals of Applied
 Statistics)
