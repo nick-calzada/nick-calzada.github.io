@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Nick Calzada, and I am currently a postbaccalaureate researcher at UT Austin in the Center for Ecological Statistics. My research interests include spatio-temporal statistics, Bayesian hierarchical modeling, and machine learning.
+My name is Nick Calzada, and I am currently a postbaccalaureate researcher at UT Austin in the Center for Ecological Statistics. My research interests include machine learning, spatio-temporal statistics, and Bayesian hierarchical modeling.
 
 Project Updates
 ======
