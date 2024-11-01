@@ -11,5 +11,5 @@ main:
   - title: "CV"
     url: /files/Calzada_CV_test.pdf
 
-  - title: "Mini Projects"
-    url: /portfolio/
+  # - title: "Mini Projects"
+  #   url: /portfolio/
